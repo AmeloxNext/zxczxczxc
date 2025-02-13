@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AmeloxRUS/huijkn-m/refs/heads/main/wersfderfwsdfw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AmeloxRUS/whitle-list/refs/heads/main/xcvcxvxcb"))()
     local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/kigredns/guiformyfriend/refs/heads/main/redversion.lua"))()
     local Window = OrionLib:MakeWindow({Name = "ColdTeam X", HidePremium = false, SaveConfig = true, IntroEnabled = false})
     
@@ -601,7 +601,7 @@ args = {
 end
 })
 Tib:AddButton({
-    Name = "надо потом сделать",
+    Name = "надо потом сделать23",
     Callback = function()
 args = {
             [1] = "ClearAllTools"
@@ -625,7 +625,7 @@ args = {
       bodyVelocity.P = 1250
       bodyVelocity.MaxForce = Vector3.new(4000,4000,4000)
       bodyVelocity.Velocity = Vector3.new(0,2,0)
-      humanoidRootPart.CFrame = CFrame.new(8.99999949e+09, -998, 8.99999949e+09, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+      humanoidRootPart.CFrame = CFrame.new(-21.6332054, 15.4314861, 70.1223526, -0.000358204008, 0.0316703543, 0.999498308, 0.206926823, 0.97786808, -0.0309108123, -0.978356421, 0.206811965, -0.00690372335)
       humanoidRootPart.Position = Vector3.new(8.99999949e+09, -998, 8.99999949e+09)
       humanoidRootPart.Anchored = true
       humanoidRootPart.Orientation = Vector3.new(0, 0, 0)
@@ -1052,6 +1052,19 @@ Tib:AddButton({
         end
     })
 
+    
+    Tib:AddButton({
+        Name = "хуй не ебу чё сказать",
+        Callback = function(value)
+            local player = game.Players.LocalPlayer
+            local tool = player.Backpack["FlashLight"]
+            tool.GripPos = Vector3.new(1.5, 1.6, -0.4)
+            wait(.1)
+            tool.Parent = player.Character
+        end
+    })
+
+
     Tib:AddButton({
         Name = "надпись хуй",
         Callback = function(value)
@@ -1209,5 +1222,135 @@ Tib:AddButton({
         tool.Parent = player.Character
         end
     })
+
+Tib:AddButton({
+    Name = "надпись Ez",
+    Callback = function()
+	
+		local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(4,2,1)
+        tool.Parent = player.Character
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(4,0,1)
+        tool.Parent = player.Character
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(4,-1,1)
+        tool.Parent = player.Character
+
+				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(4,1,1)
+        tool.Parent = player.Character
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(4,3,1)
+        tool.Parent = player.Character
+
+ 				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(4,4,1)
+        tool.Parent = player.Character
+
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(4,5,1)
+        tool.Parent = player.Character
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(2,2,1)
+        tool.Parent = player.Character
+
+								local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-2,-1,1)
+        tool.Parent = player.Character
+
+								local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-3,-1,1)
+        tool.Parent = player.Character
+
+		local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-4,-1,1)
+        tool.Parent = player.Character
+
+				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-5,-1,1)
+        tool.Parent = player.Character
+
+				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-4.5,0.9,1)
+        tool.Parent = player.Character
+
+				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-3.5,2,1)
+        tool.Parent = player.Character
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-2,3,1)
+        tool.Parent = player.Character
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-2.7,2.4,1)
+        tool.Parent = player.Character
+
+
+				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-2,4.6,1)
+        tool.Parent = player.Character
+
+				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-5,4.6,1)
+        tool.Parent = player.Character
+				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-4,4.6,1)
+        tool.Parent = player.Character
+				local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(-3,4.6,1)
+        tool.Parent = player.Character
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(3,-1,1)
+        tool.Parent = player.Character
+									local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(2,-1,1)
+        tool.Parent = player.Character
+
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(3,5,1)
+        tool.Parent = player.Character
+
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(2,5,1)
+        tool.Parent = player.Character
+
+						local player = game.Players.LocalPlayer
+        local tool = player.Backpack["Balloon"]
+        tool.GripPos = Vector3.new(3,2,1)
+        tool.Parent = player.Character
+		end
+})
 
 OrionLib:Init()
